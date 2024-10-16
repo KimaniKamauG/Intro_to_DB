@@ -1,4 +1,4 @@
-CREATE DATABASE alx_book_store;
+CREATE DATABASE IF NOT EXISTS alx_book_store;
 -- Creates a database named alx_book_store.
 
 use database alx_book_store;
